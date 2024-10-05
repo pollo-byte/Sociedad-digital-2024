@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sociedad Digital 2024</title>
-  <style> body {
+  <style> 
+      body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
